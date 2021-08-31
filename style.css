@@ -7,6 +7,11 @@ body {
     height: 40px;
     margin: 32px auto;
 }
+#root {
+    margin: 0 auto;
+    max-width: 750px;
+    min-width: 380px;
+}
 .app-loader:after {
     content: " ";
     display: block;
